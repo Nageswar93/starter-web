@@ -20,3 +20,13 @@ Runs Everywhere
 Spark runs on Hadoop, Apache Mesos, Kubernetes, standalone, or in the cloud. It can access diverse data sources.
 
 You can run Spark using its standalone cluster mode, on EC2, on Hadoop YARN, on Mesos, or on Kubernetes. Access data in HDFS, Alluxio, Apache Cassandra, Apache HBase, Apache Hive, and hundreds of other data sources.
+
+Getting Started
+Learning Apache Spark is easy whether you come from a Java, Scala, Python, R, or SQL background:
+
+Download the latest release: you can run Spark locally on your laptop.
+Read the quick start guide.
+Learn how to deploy Spark on a cluster.
+
+
+Apache Spark, Spark, Apache, the Apache feather logo, and the Apache Spark project logo are either registered trademarks or trademarks of The Apache Software Foundation in the United States and other countries. See guidance on use of Apache Spark trademarks. All other marks mentioned may be trademarks or registered trademarks of their respective owners. Copyright © 2018 The Apache Software Foundation, Licensed under the Apache License, Version 2.0.
